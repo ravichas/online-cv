@@ -25,24 +25,21 @@ sidebar:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: English
-        level: Native
+    Programming languages:
+      - idiom: R
+        level: Advanced
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Python
+        level: Advanced
 
     interests:
-      - item: Climbing
+      - item: Self-learning
         link:
 
-      - item: Snowboarding
+      - item: Mentoring
         link:
 
-      - item: Cooking
+      - item: Teaching
         link:
 
 career-profile:
