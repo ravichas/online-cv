@@ -69,7 +69,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-Technical Skills Summary:
+technical-skills-summary:
+    title: Technical Skills Summary
+    summary: |
         - Expertise in statistical modeling, Deep learning (& Machine Learning; ML), and modeling/inference of public survey, drug size small molecule and high dimensional Omics data, such as Next Generation Sequencing (NGS)
         - Deep knowledge in the use of data ingestion, curation/harmonization, Exploratory Data Analysis to create ML-ready datasets, and apply appropriate modeling approaches to create evidence-based models 
         - Skilled in scientific programming using statistical language (R), Python, Linux shell scripting, and modern Fortran; possess the skillset to install, test, and manage scientific software from desktop to High-Performance Computing (HPC) systems; expertise in combining Linux shell scripts with PBS/SLURM batch commands to setup complex pipelines for long-running Biocomputing jobs
