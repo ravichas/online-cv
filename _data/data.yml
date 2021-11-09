@@ -104,6 +104,7 @@ projects:
     intro: >
       Here are some of my recent projects: 
 
+     assignments:
       - title: WomenInScience
         link: "#hook"
         tagline: "Used FNLCR HR."
