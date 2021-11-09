@@ -52,8 +52,6 @@ education:
       # time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
           - Bullet point
@@ -63,8 +61,6 @@ education:
       # time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
           - Bullet point
@@ -89,24 +85,21 @@ experiences:
       time: 2002 - 2021
       company: Frederick National Lab. For Cancer Research
       details: |
-        Women in science at FNLCR [09/2020 - 09/2021]
-          - Used FNLCR HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis e) created models (RandomForest, regression, and logistic regression). Used data modeling and EDA to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions.
-      details: |
-        Accelerating Therapeutics for Opportunities in Medicine (ATOM) – [03/2020 – 09/2021]
-           - Part of the ATOM team; provides structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline [AMPL; (https://github.com/ATOMconsortium/AMPL)]; working as a developer to extend AMPL software 
-           - Hands-on experience in cleaning, aggregating, and curating various data types (ex., genomics expression, clinical and binding assay) from multiple database sources (ex., PubChem, NCBI, etc.) to create ML-ready datasets; used SQL query for extracting data from NCBI and ChEMBL databases 
-           - Recent projects include the application of statistical inference/machine-learning techniques (regression/ classification/clustering) for modeling high-dimensional Omics ouputs such as NGS & disease-centered drug-target binding assay data; SARS-CoV-1/2 MPro data modeling;  structure-based analysis of GPCR (M1-M5, H1 receptors) for generating ML-ready datasets; use of applicability domain and feature selection to improve dataset creation & model building; application of AMPL software to address drug efficacy and toxicity
+        Collaborated several data science and genomics cancer focussed projects. 
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Computational Biochemist
+      time: 2000 - 2002
+      company: University of Medicine and Dentistry of New Jersey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Offered computational biology support to biomedical projects; developed molecular modeling (MM) approaches to design novel adhesive restorative materials; offered MM classes to Rutgers Univ. students
           - Bullet point
+          - Bullet point
+
+    - role: Research Scientist
+      time: 1997 - 2000
+      company: Dept. of Chemistry & Biochemistry, Duquesne University
+      details: |
+        Built models and carried out simulations to study protein-interface adsorption problems; developed Brownian dynamics and Monte-Carlo simulation codes; taught chemistry to undergraduate students
           - Bullet point
 projects:
     title: Projects
