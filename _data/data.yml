@@ -105,9 +105,10 @@ projects:
     title: Projects
     intro: >
       Here are some of my recent projects: 
+
       - title: Women-in-Science-at-FNLCR
         link: "#"
-        tagline: "Used FNLCR HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis e) created models (RandomForest, regression, and logistic regression). Used data modeling and EDA to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions."
+        tagline: "Used FNLCR HR"
 
       - title: DevStudio
         link: "#"
