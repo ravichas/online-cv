@@ -43,13 +43,13 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Professional Summary
     summary: |
       Computational scientist with progressive experience in applications of computational modeling in the life sciences. Life-long learner and mentor with a demonstrated commitment to the professional development of colleagues and the scientific community. Strong problem solver in scientific programming contributing to the development of statistical models and deep learning models with high dimensional Omics data. Organized thinker and communicator using project management best practices for delivery on scientific projects. Extensive experience in collaborating and managing biomedical, genomic diseases projects; authored 54 peer-reviewed publications and a patent.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Computational Chemistry
+      university: Indian Institute of Science
+      # time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
