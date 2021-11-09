@@ -81,7 +81,7 @@ technical-skills-summary:
 
 experiences:
     - role: Data Scientist
-      time: Sep 2021 - Present
+      time: 2021 - Present
       company: Leidos Inc., Frederick
       details: |
         Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google’s BERT NLP software 
@@ -91,6 +91,11 @@ experiences:
       details: |
         Women in science at FNLCR [09/2020 - 09/2021]
           - Used FNLCR HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis e) created models (RandomForest, regression, and logistic regression). Used data modeling and EDA to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions.
+        Accelerating Therapeutics for Opportunities in Medicine (ATOM) – [03/2020 – 09/2021]
+           - Part of the ATOM team; provides structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline [AMPL; (https://github.com/ATOMconsortium/AMPL)]; working as a developer to extend AMPL software 
+           - Hands-on experience in cleaning, aggregating, and curating various data types (ex., genomics expression, clinical and binding assay) from multiple database sources (ex., PubChem, NCBI, etc.) to create ML-ready datasets; used SQL query for extracting data from NCBI and ChEMBL databases 
+           - Recent projects include the application of statistical inference/machine-learning techniques (regression/ classification/clustering) for modeling high-dimensional Omics ouputs such as NGS & disease-centered drug-target binding assay data; SARS-CoV-1/2 MPro data modeling;  structure-based analysis of GPCR (M1-M5, H1 receptors) for generating ML-ready datasets; use of applicability domain and feature selection to improve dataset creation & model building; application of AMPL software to address drug efficacy and toxicity
+
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
