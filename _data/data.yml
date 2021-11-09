@@ -69,6 +69,14 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+Technical Skills Summary:
+        - Expertise in statistical modeling, Deep learning (& Machine Learning; ML), and modeling/inference of public survey, drug size small molecule and high dimensional Omics data, such as Next Generation Sequencing (NGS)
+        - Deep knowledge in the use of data ingestion, curation/harmonization, Exploratory Data Analysis to create ML-ready datasets, and apply appropriate modeling approaches to create evidence-based models 
+        - Skilled in scientific programming using statistical language (R), Python, Linux shell scripting, and modern Fortran; possess the skillset to install, test, and manage scientific software from desktop to High-Performance Computing (HPC) systems; expertise in combining Linux shell scripts with PBS/SLURM batch commands to setup complex pipelines for long-running Biocomputing jobs
+        - Substantial experience in applying molecular modeling and computer simulation techniques (Homology Modeling, Docking, 3D-QSAR, Molecular dynamics, genetic variant pathogenicity prediction) to provide solutions for human diseases
+        - Expert in creating isolated computing container environments (ex., anaconda) and using cloud-based notebooks (ex. COLAB) and Google Cloud Platform (GCP) for teaching, training, and promoting reproducible research. 
+        - Adjunct faculty in the departments of Computer Science and Biology at the Hood College Frederick, MD; exhibited exemplary leadership skills by initiating, designing, and offering training in the cutting-edge areas of computational structural biology/bioinformatics at the NCI/Frederick National Lab. For Cancer Research (FNLCR)
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
