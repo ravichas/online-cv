@@ -91,6 +91,7 @@ experiences:
       details: |
         Women in science at FNLCR [09/2020 - 09/2021]
           - Used FNLCR HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis e) created models (RandomForest, regression, and logistic regression). Used data modeling and EDA to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions.
+      details: |
         Accelerating Therapeutics for Opportunities in Medicine (ATOM) – [03/2020 – 09/2021]
            - Part of the ATOM team; provides structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline [AMPL; (https://github.com/ATOMconsortium/AMPL)]; working as a developer to extend AMPL software 
            - Hands-on experience in cleaning, aggregating, and curating various data types (ex., genomics expression, clinical and binding assay) from multiple database sources (ex., PubChem, NCBI, etc.) to create ML-ready datasets; used SQL query for extracting data from NCBI and ChEMBL databases 
