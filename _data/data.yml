@@ -13,17 +13,16 @@ sidebar:
 
     # Sidebar links
     email: saka.ravi@gmail.com
-    phone: 012 345 6789
     website: sites.google.com/site/sakaravi #do not add http://
     linkedin: sakaravi
     github: ravichas
-    telegram: # add your nickname without '@' sign
+    # telegram: # add your nickname without '@' sign
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
