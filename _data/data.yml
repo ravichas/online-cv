@@ -92,15 +92,13 @@ experiences:
       company: University of Medicine and Dentistry of New Jersey
       details: |
         Offered computational biology support to biomedical projects; developed molecular modeling (MM) approaches to design novel adhesive restorative materials; offered MM classes to Rutgers Univ. students
-          #- Bullet point
-          #- Bullet point
 
     - role: Research Scientist
       time: 1997 - 2000
       company: Dept. of Chemistry & Biochemistry, Duquesne University
       details: |
         Built models and carried out simulations to study protein-interface adsorption problems; developed Brownian dynamics and Monte-Carlo simulation codes; taught chemistry to undergraduate students
-          #- Bullet point
+
 projects:
     title: Projects
     intro: >
