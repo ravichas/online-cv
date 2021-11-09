@@ -105,10 +105,9 @@ projects:
     title: Projects
     intro: >
       Here are some of my recent projects: 
-
       - title: Women-in-Science-at-FNLCR
         link: "#hook"
-        tagline: "Used FNLCR HR"
+        tagline: "Used FNLCR HR."
 
       - title: DevStudio
         link: "#"
