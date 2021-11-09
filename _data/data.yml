@@ -80,32 +80,17 @@ technical-skills-summary:
         - Adjunct faculty in the departments of Computer Science and Biology at the Hood College Frederick, MD; exhibited exemplary leadership skills by initiating, designing, and offering training in the cutting-edge areas of computational structural biology/bioinformatics at the NCI/Frederick National Lab. For Cancer Research (FNLCR)
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Scientist
+      time: Sep 2021 - Present
+      company: Leidos Inc., Frederick
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google’s BERT NLP software 
+    - role: Bioinformatics Analyst/Data Scientist, FNLCR
+      time: 2002 - 2021
+      company: Frederick National Lab. For Cancer Research
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Women in science at FNLCR [09/2020 - 09/2021]
+          - Used FNLCR HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis e) created models (RandomForest, regression, and logistic regression). Used data modeling and EDA to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
