@@ -156,21 +156,21 @@ publications:
         authors: Landau D.A, Sun C. [...] Ravichandran S. [...], Weistner A, Wu CJ
         conference: "Nature Communications, 8(1), 2185, 2017."
 
-      - title: Click here to view the omplete publications list
+      - title: Click here to view the complete publications list
         link: "https://sites.google.com/site/sakaravi "
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & R
+        level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: HTML
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
