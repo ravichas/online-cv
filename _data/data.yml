@@ -136,12 +136,16 @@ projects:
         tagline: "Worked with Prof. Michael Robbins, Columbia University to teach an recurring class" 
 
 teaching-training:
-    - role: Data Scientist
-      time: 2021 - Present
-      company: Leidos Inc., Frederick
+    - role: Adjunct faculty 
+      time: 2015 - Present
+      company: Hood College, Frederick, MD
       details: |
-        Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google’s BERT NLP software 
-    - role: Bioinformatics Analyst/Data Scientist, FNLCR
+        Courses: BIFX550: Computational Functional Genomics: Sequence and Structural Bioinformatics (2021); Nucleic Acid Sequence Analysis/Protein Modeling (2015-2020)  
+    - role: Adjunct faculty 
+      time: 2010 
+      company: Hood College, Frederick, MD
+      details: |
+        Courses: CSIT599F: Biocomputing 
 
 publications:
     title: Publications
