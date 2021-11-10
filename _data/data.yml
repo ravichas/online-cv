@@ -132,6 +132,10 @@ projects:
         link: "https://github.com/ravichas/OOP-S3-in-R"
         tagline: "Introduce Object Oriented Programming (OOP) in R based on the most commonly used S3 system and explain the relationship between objects and their methods (a.k.a. functions in the context of OOP)"
 
+      - title: Lead mentor in the FNLCR-Columbia academic partnership program
+        link: "https://github.com/ravichas/"
+        tagline: "Worked with Prof. Michael Robbins, Columbia University to teach an recurring class" 
+
 publications:
     title: Publications
     intro: |
