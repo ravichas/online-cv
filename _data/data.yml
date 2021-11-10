@@ -110,7 +110,7 @@ projects:
 
       - title: Drug Discovery Pipeline (ATOM)
         link: "#"
-        tagline: "Worked with the ATOM team and provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline [AMPL; (https://github.com/ATOMconsortium/AMPL)]; Created several AMPL tutorials. Check the folllowing link for details, https://github.com/ATOMScience-org/AMPL/tree/master/atomsci/ddm/examples/tutorials 
+        tagline: "Worked with the ATOM team and provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline [AMPL; (https://github.com/ATOMconsortium/AMPL)]; Created several AMPL tutorials. Check the folllowing link for details, https://github.com/ATOMScience-org/AMPL/tree/master/atomsci/ddm/examples/tutorials" 
 
       - title: Tempo
         link: "#"
