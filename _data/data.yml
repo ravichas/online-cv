@@ -136,12 +136,12 @@ projects:
         tagline: "Worked with Prof. Michael Robbins, Columbia University to teach an recurring class" 
 
 teaching-training:
-    - role: Adjunct faculty 
+    - role: Adjunct faculty in the Biology and Computer Science Departments
       time: 2015 - Present
       company: Hood College, Frederick, MD
       details: |
         Courses: BIFX550: Computational Functional Genomics: Sequence and Structural Bioinformatics (2021); Nucleic Acid Sequence Analysis/Protein Modeling (2015-2020)  
-    - role: Adjunct faculty 
+    - role: Adjunct faculty in the Computer Science Department
       time: 2010 - 2010
       company: Hood College, Frederick, MD
       details: |
