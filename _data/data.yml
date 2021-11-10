@@ -139,24 +139,22 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Some of my recent publications are listed below:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Natural polyphenols as sirtuin 6 modulators" 
+        link: "https://www.ncbi.nlm.nih.gov/pubmed/?term=29515203"
+        authors: Minna Rahnasto-Rilla, Jonna Tyni [...] S.Ravichandran, Ruin Moaddel
+        conference: "Scientific Reports, Mar 7;8(1):4163, 2018." 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Synthesis and Biological Evaluation of Fluorescent Bryostatin Analogues"
+        link: "https://www.ncbi.nlm.nih.gov/pubmed/29424951"
+        authors: T.J. Cummings, N. Kedai, A. Czikora, N.E.Lwein, S. Kirk, M.E. Peterson, Kevin. M. McGowan, Jin-Qiu Chen, X. Luo, R.C. Johnson, S.Ravichandran, P.M. Blumberg and G.E. Keck
+        conference: "ChemBioChem, 10.1002/cbic.201700655l, 2018."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The evolutionary landscape of chronic lymphocytic leukemia treated with ibrutinib targeted therapy
+        link: "https://www.ncbi.nlm.nih.gov/pubmed/?term=29259203"
+        authors: Landau D.A, Sun C. [...] Ravichandran S. [...], Weistner A, Wu CJ
+        conference: "Nature Communications, 8(1), 2185, 2017."
 
 skills:
     title: Skills &amp; Proficiency
