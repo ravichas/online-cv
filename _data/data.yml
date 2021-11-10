@@ -170,6 +170,19 @@ publications:
       - title: Click here to view the complete publications list
         link: "https://sites.google.com/site/sakaravi "
 
+
+patents:
+    title: Patents and Molecular Models
+    intro: >
+      Here are the details of the patent and molecular models I have co-authored:
+    assignments:
+      - title: WO2004091492 A2 (2003)
+        link: "https://patents.google.com/patent/WO2004091492A2/en"
+        tagline: "Computer-based model for identification and characterization of non-competitive inhibitors of nAChRs and gated ion channels"
+
+      - title: RCSB Protein 3D models
+        tagline: "1T53 and 2ASG"
+
 skills:
     title: Skills &amp; Proficiency
 
