@@ -124,9 +124,13 @@ projects:
         link: "https://github.com/ravichas/ML-predict-drugclass"
         tagline: "Learning Drug function from molecular structures using random forest "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Cancer Site/Type classification using Convolutional Neural Network
+        link: "https://github.com/ravichas/ML-TC1"
+        tagline: "This project will explain how to use genomic expression data for classifying different cancer/tumor sites/types."
+
+      - title: Introduction to Object-Oriented-Programming and S3 System in R
+        link: "https://github.com/ravichas/OOP-S3-in-R"
+        tagline: "Introduce Object Oriented Programming (OOP) in R based on the most commonly used S3 system and explain the relationship between objects and their methods (a.k.a. functions in the context of OOP)"
 
 publications:
     title: Publications
