@@ -119,7 +119,7 @@ projects:
         link: "https://github.com/ravichas/AMPL-workshop-2"
         tagline: "Demonstration on how to use Atom Modeling PipeLine (AMPL; https://github.com/ATOMconsortium/AMPL), a new, open-source conda-based software that automates key drug discovery steps. "
 
-      - title: Predicting Drug Function Using Small-molcule Structure Information"
+      - title: Predicting Drug Function Using Small-molcule Structure Information
         link: "https://github.com/ravichas/ML-predict-drugclass"
         tagline: "Learning Drug function from molecular structures using random forest "
 
@@ -133,7 +133,7 @@ projects:
 
       - title: Lead mentor in the FNLCR-Columbia academic partnership program
         link: "https://github.com/ravichas/"
-        tagline: "Worked with Prof. Michael Robbins, Columbia University to teach an recurring class" 
+        tagline: "Worked with Prof. Michael Robbins, Columbia University to teach a recurring class" 
 
 teaching-training:
     - role: Adjunct faculty in the Biology and Computer Science Departments
