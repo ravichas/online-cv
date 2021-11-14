@@ -42,7 +42,10 @@ sidebar:
       - item: Teaching
         link:
 
-      - item: Providing support to scientists on data science technologies and solutions
+      - item: Providing support on data science technologies & solutions
+        link:
+
+      - item: Scientific document/proposal reviewing
         link:
 
 career-profile:
