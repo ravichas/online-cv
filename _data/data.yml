@@ -33,20 +33,21 @@ sidebar:
         level: Advanced
 
     interests:
-      - item: Self-learning
-        link:
-
-      - item: Mentoring
-        link:
-
-      - item: Teaching
-        link:
-
       - item: Providing support on data science technologies & solutions
         link:
 
       - item: Scientific document/proposal reviewing
         link:
+
+      - item: Self-learning
+        link:
+
+      - item: Teaching
+        link:
+
+      - item: Mentoring
+        link:
+
 
 career-profile:
     title: Professional Summary
