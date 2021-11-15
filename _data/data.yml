@@ -33,7 +33,10 @@ sidebar:
         level: Advanced
 
     interests:
-      - item: Providing support on data science technologies & solutions
+      - item: Blogging
+        link:
+
+      - item: Providing statistical/data-analysis support to projects
         link:
 
       - item: Scientific document/proposal reviewing
