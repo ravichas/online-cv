@@ -33,7 +33,7 @@ sidebar:
         level: Advanced
 
     interests:
-      - item: Blogging
+      - item: Mentoring
         link:
 
       - item: Providing statistical/data-analysis support to projects
@@ -42,15 +42,14 @@ sidebar:
       - item: Scientific document/proposal reviewing
         link:
 
-      - item: Self-learning
-        link:
-
       - item: Teaching
         link:
 
-      - item: Mentoring
+      - item: Self-learning
         link:
 
+      - item: Blogging
+        link:
 
 career-profile:
     title: Professional Summary
