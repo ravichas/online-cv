@@ -96,8 +96,8 @@ experiences:
       details: |
         Selected project summary are shown below:
 
-     project-details:
-     title: Project Details
+     project:
+     title: Work Summary
 
       - title: Women in Science [09/2020 - 09/2021]
         tagline: "Used HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions" 
