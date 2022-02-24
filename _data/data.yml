@@ -90,11 +90,14 @@ experiences:
       company: Leidos Inc., Frederick
       details: |
         Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google’s BERT NLP software.  
-    - role: Data Scientist, FNLCR
+    - role: Data Scientist, 
       time: 2002 - 2021
       company: Frederick National Lab. For Cancer Research
       details: |
-        Collaborated on several data science and genomics cancer focussed projects: 
+        Selected project summary are shown below:
+
+     project-details:
+     title: Project Details
 
       - title: Women in Science [09/2020 - 09/2021]
         tagline: "Used HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions" 
