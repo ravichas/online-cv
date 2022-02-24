@@ -89,12 +89,14 @@ experiences:
       time: 2021 - Present
       company: Leidos Inc., Frederick
       details: |
-        Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google’s BERT NLP software 
-    - role: Bioinformatics Analyst/Data Scientist, FNLCR
+        Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google’s BERT NLP software.  
+    - role: Data Scientist, FNLCR
       time: 2002 - 2021
       company: Frederick National Lab. For Cancer Research
       details: |
-        Collaborated several data science and genomics cancer focussed projects. 
+        Collaborated on several data science and genomics cancer focussed projects 
+        -xx
+        -xx
     - role: Computational Biochemist
       time: 2000 - 2002
       company: University of Medicine and Dentistry of New Jersey
