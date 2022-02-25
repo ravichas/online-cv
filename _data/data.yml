@@ -101,7 +101,14 @@ experiences:
       time: 2020 - 2021
       company: Frederick National Lab for Cancer Research
       details: |
-       <b>Accelerating Therapeutics for Opportunities in Medicine</b>: Part of the ATOM team - provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases ATOM Modeling Pipeline (<a href="https://github.com/ATOMconsortium/AMPL">AMPL</a>) - working as a developer to extend AMPL software 
+       <b>Accelerating Therapeutics for Opportunities in Medicine</b>: Part of the ATOM team - provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases ATOM Modeling Pipeline (<a href="https://github.com/ATOMconsortium/AMPL">AMPL</a>) - worked as a developer to extend AMPL software<br> 
+       Gained experience in cleaning, aggregating, and curating various data types (ex., genomics expression, clinical and binding assay) from multiple database sources (ex., PubChem, NCBI) to create ML-ready datasets; used SQL query for extracting data from NCBI and ChEMBL databases
+
+    - role: Data Scientist
+      time: 2020 - 2021
+      company: Frederick National Lab for Cancer Research
+      details: |
+       <b>Accelerating Therapeutics for Opportunities in Medicine</b>: Part of the ATOM team - provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases ATOM Modeling Pipeline (<a href="https://github.com/ATOMconsortium/AMPL">AMPL</a>) - worked as a developer to extend AMPL software 
 
     - role: Computational Biochemist
       time: 2000 - 2002
