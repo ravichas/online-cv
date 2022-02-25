@@ -89,22 +89,7 @@ experiences:
       time: 2021 - Present
       company: Leidos Inc.
       details: |
-        Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google’s BERT NLP software.  
-    - role: Data Scientist 
-      time: 09/2000 - 2021
-      company: Frederick National Lab. For Cancer Research
-      details: |
-      - Women in Science: Used HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions 
-    - role: Data Scientist, 
-      time: 03/2020 - 09/2021
-      company: Frederick National Lab. For Cancer Research
-      details: |
-        Part of the ATOM team provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline (AMPL; https://github.com/ATOMconsortium/AMPL). For details check "Drug Discovery Pipline (ATOM)" under Projects section. 
-    - role: Data Scientist, Accelerating Therapeutics for Opportunities in Medicine (ATOM) project
-      time: 03/2019 - 11/2020
-      company: Frederick National Lab. For Cancer Research
-      details: |
-        Worked to transfer, create, make available the data science and computational modeling tools developed in collaboration with DOE.
+        Leads RWE drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror Leidos RCT; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google BERT NLP software.  
 
     - role: Computational Biochemist
       time: 2000 - 2002
