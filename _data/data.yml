@@ -96,12 +96,12 @@ experiences:
       details: |
         Selected project summary are shown below:
 
-      - Women in Science [09/2020 - 09/2021]
+      - Women in Science [09/2020 - 09/2021]<br>
         -Used HR people data to model gender equity; employed the following data science steps: a) data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions 
-      - Accelerating Therapeutics for Opportunities in Medicine (ATOM)-[03/2020-09/2021]:
-         Part of the ATOM team provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline (AMPL; https://github.com/ATOMconsortium/AMPL). For details check "Drug Discovery Pipline (ATOM)" under Projects section. 
+      - Accelerating Therapeutics for Opportunities in Medicine (ATOM)-[03/2020-09/2021]:<br>
+         -Part of the ATOM team provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases using ATOM Modeling Pipeline (AMPL; https://github.com/ATOMconsortium/AMPL). For details check "Drug Discovery Pipline (ATOM)" under Projects section. 
       - NCI-DOE Pilot1 project - [03/2019 - 11/2020]:<br>
-         Worked to transfer, create, make available the data science and computational modeling tools developed in collaboration with DOE.
+         -Worked to transfer, create, make available the data science and computational modeling tools developed in collaboration with DOE.
     - role: Computational Biochemist
       time: 2000 - 2002
       company: University of Medicine and Dentistry of New Jersey
