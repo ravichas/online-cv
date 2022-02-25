@@ -89,7 +89,9 @@ experiences:
       time: 2021 - Present
       company: Leidos Inc.
       details: |
-        Leads Real-World Evidence drug repurposing research project; Acquiring and pursuing commercial and open-source Real-World-Data and designing a retrospective study to mirror internal clinical trial; Working on developing Natural Language Processing (NLP) methods (Linux Shell scripting, R, SQL, Python, BERT) for processing clinical data and notes
+       * Leads Real-World Evidence drug repurposing research project 
+       * Acquiring and pursuing commercial and open-source Real-World-Data and designing a retrospective study to mirror internal clinical trial; Will be developing software code (Python & R) to carry out the simulations 
+       * Working on developing Natural Language Processing (NLP) methods (Linux Shell scripting, R, SQL, Python, BERT) for processing clinical data and notes
 
     - role: Data Scientist
       time: 2013 - 2021
