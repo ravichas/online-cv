@@ -89,27 +89,19 @@ experiences:
       time: 2021 - Present
       company: Leidos Inc.
       details: |
-        Leads Real-World Evidence drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror clinical trial; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google BERT NLP software.  
+        Leads Real-World Evidence drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror internal clinical trial; Working on developing Natural Language Processing (NLP) methods (Linux Shell scripting, R, SQL, Python, BERT) for processing clinical data and notes.
 
     - role: Data Scientist
-      time: 2020 - 2021
+      time: 2013 - 2021
       company: Frederick National Lab for Cancer Research
       details: |
-       <b>Women in Science</b>: Used HR people data to model gender equity; employed the following data science steps (data collected from multiple disparate sources, carried out data cleaning/tidying, merged/harmonized datasets, employed Exploratory Data Analysis, created RandomForest, regression and logistic regression). Used data modeling and EDA to address different dimensions (representation, opportunity, retention, development) of equity to provide solutions. 
+       Worked to transfer, create, make available the data science and computational modeling tools developed in collaboration with NCI-DOE; Was part of the ATOM (Accelerating Therapeutics for Opportunities in Medicine team and provided structural biology support for creating patient-centric in-silico drug discovery models for human diseases; Used ATOM Modeling Pipeline (<a href="https://github.com/ATOMconsortium/AMPL">AMPL</a>) for teaching drug discovery; created tools and tutorials for using AMPL; Worked as a developed to extend AMPL software; Collaborated and managed several biomedical research projects; please check my <a href="https://sites.google.com/site/sakaravi/Home/publications">publications</a> listfor details <br> 
 
-    - role: Data Scientist
-      time: 2020 - 2021
-      company: Frederick National Lab for Cancer Research
+    - role: Data Scientist/Bioinformatics Analyst
+      time: 2002 - 2013
+      company: SAIC Inc.
       details: |
-       <b>Accelerating Therapeutics for Opportunities in Medicine</b>: Part of the ATOM team - provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases ATOM Modeling Pipeline (<a href="https://github.com/ATOMconsortium/AMPL">AMPL</a>) - worked as a developer to extend AMPL software<br> 
-
-       Gained experience in cleaning, aggregating, and curating various data types (ex., genomics expression, clinical and binding assay) from multiple database sources (ex., PubChem, NCBI) to create ML-ready datasets; used SQL query for extracting data from NCBI and ChEMBL databases
-
-    - role: Data Scientist
-      time: 2020 - 2021
-      company: Frederick National Lab for Cancer Research
-      details: |
-       <b>Accelerating Therapeutics for Opportunities in Medicine</b>: Part of the ATOM team - provided structural biology and data science support for creating patient-centric in silico drug discovery models for human diseases ATOM Modeling Pipeline (<a href="https://github.com/ATOMconsortium/AMPL">AMPL</a>) - worked as a developer to extend AMPL software 
+      Most of the  
 
     - role: Computational Biochemist
       time: 2000 - 2002
