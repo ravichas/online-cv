@@ -91,14 +91,11 @@ experiences:
       details: |
         Leads Real-World Evidence drug repurposing research project; Acquiring and pursuing (commercial and consortium) Real-World-Data and designing a retrospective study to mirror clinical trial; Reviewing clinical Natural Language Processing (NLP) methods for processing clinical notes using Linux Shell scripting, R, Python, and Google BERT NLP software.  
 
-    - role: Data Scientist1
+    - role: Data Scientist
       time: 2020 - 2021
       company: Frederick National Lab for Cancer Research
       details: |
-       Used FNLCR Human Resources people data to model gender equity; employed the following data science steps: a)
-data collected from multiple disparate sources b) carried out data cleaning/tidying c) merged/harmonized datasets d) employed Exploratory Data Analysis e) created models (RandomForest, regression, and logistic regression). Used
-data modeling and EDA to address different dimensions (representation, opportunity, retention, development) of
-equity to provide solutions. 
+       Used FNLCR Human Resources people data to model gender equity; employed the following data science steps:
 
     - role: Computational Biochemist
       time: 2000 - 2002
